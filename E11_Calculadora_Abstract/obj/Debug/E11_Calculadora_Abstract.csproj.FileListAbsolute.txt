@@ -1,0 +1,7 @@
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\obj\Debug\E11_Calculadora_Abstract.csproj.AssemblyReference.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\obj\Debug\E11_Calculadora_Abstract.csproj.CoreCompileInputs.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\bin\Debug\E11_Calculadora_Abstract.exe.config
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\bin\Debug\E11_Calculadora_Abstract.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\bin\Debug\E11_Calculadora_Abstract.pdb
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\obj\Debug\E11_Calculadora_Abstract.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\E11_Calculadora_Abstract\obj\Debug\E11_Calculadora_Abstract.pdb
