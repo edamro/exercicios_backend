@@ -1,0 +1,7 @@
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\obj\Debug\D02_Interfaces.csproj.AssemblyReference.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\obj\Debug\D02_Interfaces.csproj.CoreCompileInputs.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\bin\Debug\D02_Interfaces.exe.config
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\bin\Debug\D02_Interfaces.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\bin\Debug\D02_Interfaces.pdb
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\obj\Debug\D02_Interfaces.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\D02_Interfaces\obj\Debug\D02_Interfaces.pdb

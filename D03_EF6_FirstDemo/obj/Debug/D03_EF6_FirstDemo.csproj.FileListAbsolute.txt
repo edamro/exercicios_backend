@@ -1,0 +1,11 @@
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\D03_EF6_FirstDemo.exe.config
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\D03_EF6_FirstDemo.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\D03_EF6_FirstDemo.pdb
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\EntityFramework.dll
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\EntityFramework.xml
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\obj\Debug\D03_EF6_FirstDemo.csproj.AssemblyReference.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\obj\Debug\D03_EF6_FirstDemo.csproj.CoreCompileInputs.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\obj\Debug\D03_EF6_FirstDemo.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\D03_EF6_FirstDemo\obj\Debug\D03_EF6_FirstDemo.pdb
