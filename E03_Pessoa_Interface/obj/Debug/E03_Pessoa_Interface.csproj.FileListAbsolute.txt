@@ -1,0 +1,7 @@
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\bin\Debug\E03_Pessoa_Interface.exe.config
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\bin\Debug\E03_Pessoa_Interface.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\bin\Debug\E03_Pessoa_Interface.pdb
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\obj\Debug\E03_Pessoa_Interface.csproj.AssemblyReference.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\obj\Debug\E03_Pessoa_Interface.csproj.CoreCompileInputs.cache
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\obj\Debug\E03_Pessoa_Interface.exe
+C:\APC_2021\C03_BE\2021-10-25\BE\E03_Pessoa_Interface\obj\Debug\E03_Pessoa_Interface.pdb
